@@ -1,6 +1,6 @@
 {
   "name": "cerebro-text-case",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UpperCase or LowerCase your texts easily",
   "license": "MIT",
   "repository": "lubien/cerebro-text-case",
