@@ -13,6 +13,7 @@ Use <kdb>cmd+c</kbd> to copy the result text.
 ## Related
 
 * [Cerebro](http://github.com/KELiON/cerebro) – main repo for Cerebro app;
+* [Icon](icon.png) made by [Zurb](http://www.flaticon.com/authors/zurb) from http://www.flaticon.com is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
 
 ## License
 
